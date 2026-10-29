@@ -1,0 +1,11 @@
+
+[package]
+name = "custom_log_rotator"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+chrono = "0.4"
+flate2 = "1"
+tar = "0.4"
+rfd = "0.15"
